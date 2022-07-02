@@ -1,0 +1,15 @@
+This is a arch+kde archive, it has settings and shortcuts, useful panels, window tiling, nice wallpapaers
+and more..
+** To have it working you need to have these: **
+1. orchis-kde-theme-git
+2. lightly-git
+3. lightlyshaders-git
+4. orchis-theme-git
+5. papirus-icon-theme
+6. kwin-bismuth
+7. plasma5-applets-virtual-desktop-bar-git
+8. plasma5-applets-window-title
+9. plasma5-applets-simplemenu-git
+
+For easier copying:
+orchis-kde-theme-git lightly-git lightlyshaders-git orchis-theme-git papirus-icon-theme kwin-bismuth plasma5-applets-virtual-desktop-bar-git plasma5-applets-window-title plasma5-applets-simplemenu-git
